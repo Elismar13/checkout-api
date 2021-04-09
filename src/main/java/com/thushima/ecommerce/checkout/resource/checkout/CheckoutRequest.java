@@ -1,5 +1,13 @@
 package com.thushima.ecommerce.checkout.resource.checkout;
 
+import lombok.*;
+
+import java.io.Serializable;
+import java.util.List;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class CheckoutRequest implements Serializable {
 
     private String firstName;

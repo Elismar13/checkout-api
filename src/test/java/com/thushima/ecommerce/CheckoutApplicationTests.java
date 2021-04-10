@@ -1,4 +1,4 @@
-package com.thushima.ecommerce.checkout;
+package com.thushima.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
